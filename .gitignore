@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+Challenge_Bank-account
 dist
 dist-ssr
 *.local
